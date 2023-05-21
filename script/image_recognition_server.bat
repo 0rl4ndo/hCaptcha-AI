@@ -1,0 +1,6 @@
+ECHO OFF
+TITLE IMAGE SERVER PROCESSING
+CLS
+CD ..
+python img_processing_nodes.py
+PAUSE
